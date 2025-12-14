@@ -23,14 +23,19 @@
 | 💾 **Persistencia automática** | Guarda todo en formato JSON sin configuración |
 | 🎨 **Interfaz intuitiva** | Menús interactivos con colores y formato |
 
-##Estructura del proyectos
+## Estructura del proyectos
+
 GameTrackerCLI/
 ├── Models/
 │   └── Juego.cs          # Modelo de datos
 ├── Services/
+
 │   ├── JuegoService.cs   # Lógica de negocio
+
 │   └── EstadisticasService.cs # Cálculos
+
 ├── Program.cs            # Menú principal
+
 └── juegos.json          # Datos persistentes
 
 ## 🚀 Instalación y uso
