@@ -13,7 +13,7 @@ public class EstadisticasService
     {
         _juegoService = juegoService;
     }
-
+    #nullable enable
     public int TotalJuegos() => _juegoService.ObtenerTodos().Count;
 
     public int TotalHoras() => _juegoService.ObtenerTodos().Sum(j => j.HorasJugadas);
