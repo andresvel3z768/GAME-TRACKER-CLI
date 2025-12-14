@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\desarrollo web\Proyectos Portafolio\CYRVideogames\CYRVideogames\CYRVideogames\bin\Debug\net9.0\CYRVideogames.exe
+C:\Users\admin\Documents\desarrollo web\Proyectos Portafolio\CYRVideogames\CYRVideogames\CYRVideogames\bin\Debug\net9.0\CYRVideogames.deps.json
+C:\Users\admin\Documents\desarrollo web\Proyectos Portafolio\CYRVideogames\CYRVideogames\CYRVideogames\bin\Debug\net9.0\CYRVideogames.runtimeconfig.json
+C:\Users\admin\Documents\desarrollo web\Proyectos Portafolio\CYRVideogames\CYRVideogames\CYRVideogames\bin\Debug\net9.0\CYRVideogames.dll
+C:\Users\admin\Documents\desarrollo web\Proyectos Portafolio\CYRVideogames\CYRVideogames\CYRVideogames\bin\Debug\net9.0\CYRVideogames.pdb
+C:\Users\admin\Documents\desarrollo web\Proyectos Portafolio\CYRVideogames\CYRVideogames\CYRVideogames\obj\Debug\net9.0\CYRVideogames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\desarrollo web\Proyectos Portafolio\CYRVideogames\CYRVideogames\CYRVideogames\obj\Debug\net9.0\CYRVideogames.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\desarrollo web\Proyectos Portafolio\CYRVideogames\CYRVideogames\CYRVideogames\obj\Debug\net9.0\CYRVideogames.AssemblyInfo.cs
+C:\Users\admin\Documents\desarrollo web\Proyectos Portafolio\CYRVideogames\CYRVideogames\CYRVideogames\obj\Debug\net9.0\CYRVideogames.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\desarrollo web\Proyectos Portafolio\CYRVideogames\CYRVideogames\CYRVideogames\obj\Debug\net9.0\CYRVideogames.sourcelink.json
+C:\Users\admin\Documents\desarrollo web\Proyectos Portafolio\CYRVideogames\CYRVideogames\CYRVideogames\obj\Debug\net9.0\CYRVideogames.dll
+C:\Users\admin\Documents\desarrollo web\Proyectos Portafolio\CYRVideogames\CYRVideogames\CYRVideogames\obj\Debug\net9.0\refint\CYRVideogames.dll
+C:\Users\admin\Documents\desarrollo web\Proyectos Portafolio\CYRVideogames\CYRVideogames\CYRVideogames\obj\Debug\net9.0\CYRVideogames.pdb
+C:\Users\admin\Documents\desarrollo web\Proyectos Portafolio\CYRVideogames\CYRVideogames\CYRVideogames\obj\Debug\net9.0\CYRVideogames.genruntimeconfig.cache
+C:\Users\admin\Documents\desarrollo web\Proyectos Portafolio\CYRVideogames\CYRVideogames\CYRVideogames\obj\Debug\net9.0\ref\CYRVideogames.dll

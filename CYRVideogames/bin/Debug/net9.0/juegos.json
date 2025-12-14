@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "The Witcher 3",
+    "Genero": "RPG",
+    "Lanzamiento": 2015,
+    "Descripcion": "",
+    "HorasJugadas": 120,
+    "Completado": true
+  },
+  {
+    "Id": 2,
+    "Titulo": "Celeste",
+    "Genero": "Plataformas",
+    "Lanzamiento": 2018,
+    "Descripcion": "",
+    "HorasJugadas": 15,
+    "Completado": false
+  },
+  {
+    "Id": 3,
+    "Titulo": "Hades",
+    "Genero": "Roguelike",
+    "Lanzamiento": 2020,
+    "Descripcion": "",
+    "HorasJugadas": 65,
+    "Completado": true
+  },
+  {
+    "Id": 4,
+    "Titulo": "Elden Ring",
+    "Genero": "Souls-like",
+    "Lanzamiento": 2022,
+    "Descripcion": "",
+    "HorasJugadas": 95,
+    "Completado": false
+  },
+  {
+    "Id": 5,
+    "Titulo": "Stardew Valley",
+    "Genero": "Simulaci\u00F3n",
+    "Lanzamiento": 2016,
+    "Descripcion": "",
+    "HorasJugadas": 60,
+    "Completado": true
+  },
+  {
+    "Id": 6,
+    "Titulo": "Call Of Duty Black Ops 3",
+    "Genero": "Ficcion",
+    "Lanzamiento": 2015,
+    "Descripcion": "",
+    "HorasJugadas": 0,
+    "Completado": false
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\desarrollo web\\Proyectos Portafolio\\CYRVideogames\\CYRVideogames\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{843FC883-F29D-4EE9-B9B3-E734EBAB2969}|CYRVideogames\\CYRVideogames.csproj|c:\\users\\admin\\documents\\desarrollo web\\proyectos portafolio\\cyrvideogames\\cyrvideogames\\cyrvideogames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843FC883-F29D-4EE9-B9B3-E734EBAB2969}|CYRVideogames\\CYRVideogames.csproj|solutionrelative:cyrvideogames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843FC883-F29D-4EE9-B9B3-E734EBAB2969}|CYRVideogames\\CYRVideogames.csproj|c:\\users\\admin\\documents\\desarrollo web\\proyectos portafolio\\cyrvideogames\\cyrvideogames\\cyrvideogames\\services\\juegoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843FC883-F29D-4EE9-B9B3-E734EBAB2969}|CYRVideogames\\CYRVideogames.csproj|solutionrelative:cyrvideogames\\services\\juegoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JuegoService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\desarrollo web\\Proyectos Portafolio\\CYRVideogames\\CYRVideogames\\CYRVideogames\\services\\JuegoService.cs",
+              "RelativeDocumentMoniker": "CYRVideogames\\services\\JuegoService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\desarrollo web\\Proyectos Portafolio\\CYRVideogames\\CYRVideogames\\CYRVideogames\\services\\JuegoService.cs",
+              "RelativeToolTip": "CYRVideogames\\services\\JuegoService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:57:40.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\desarrollo web\\Proyectos Portafolio\\CYRVideogames\\CYRVideogames\\CYRVideogames\\Program.cs",
+              "RelativeDocumentMoniker": "CYRVideogames\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\desarrollo web\\Proyectos Portafolio\\CYRVideogames\\CYRVideogames\\CYRVideogames\\Program.cs",
+              "RelativeToolTip": "CYRVideogames\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:52:53.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
